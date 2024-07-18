@@ -4,3 +4,5 @@ This is a code set for various attention machism
 全局注意力机制
 
 ## Linear attention
+
+## window attention
